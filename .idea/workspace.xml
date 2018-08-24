@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83634157-5ab5-46d3-8c69-f6635e9922aa" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/allblogs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/templates/blog/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/static/gastronomy2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio/static/watercolor.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs/templates/jobs/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/jobs/templates/jobs/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="83634157-5ab5-46d3-8c69-f6635e9922aa" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +42,7 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/portfolio/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
+            <state relative-caret-position="-19">
               <caret line="80" column="28" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="28" />
             </state>
           </provider>
@@ -369,7 +356,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32939324" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
       <window_info id="Unicode Browser" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.66351455" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5216706" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.088998765" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -934,7 +921,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/portfolio/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
+        <state relative-caret-position="-19">
           <caret line="80" column="28" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="28" />
         </state>
       </provider>
