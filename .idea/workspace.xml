@@ -160,7 +160,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="130" />
     <option name="y" value="-18" />
     <option name="width" value="2487" />
@@ -873,7 +873,7 @@
           <settings layout="Hierarchic Group" zoom="1.0" x="240.0" y="240.0" />
           <SelectedNodes />
           <Categories>
-            <Category>Key columns</Category>
+            <Category />
             <Category>Columns</Category>
           </Categories>
           <SCOPE>All</SCOPE>
